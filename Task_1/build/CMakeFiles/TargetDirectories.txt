@@ -1,0 +1,5 @@
+/home/etty/Documents/ОАиП/LR_6/Task_1/build/CMakeFiles/lint.dir
+/home/etty/Documents/ОАиП/LR_6/Task_1/build/CMakeFiles/Task.dir
+/home/etty/Documents/ОАиП/LR_6/Task_1/build/CMakeFiles/test.dir
+/home/etty/Documents/ОАиП/LR_6/Task_1/build/CMakeFiles/edit_cache.dir
+/home/etty/Documents/ОАиП/LR_6/Task_1/build/CMakeFiles/rebuild_cache.dir
